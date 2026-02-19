@@ -22,7 +22,7 @@ Java 기반 그룹웨어 시스템과 협업형 웹 서비스를 설계/개발�
 
 ## 🚀 Project Experience
 
-### 📌 CoviWiki - 그룹웨어 연동 협업형 Wiki 시스템 개발
+### 📌 그룹웨어 연동 협업형 Wiki 시스템 개발
 
 - Java 기반 Legacy 그룹웨어 시스템과 신규 Wiki 서비스 간 연동 구조 설계
 - 실시간 협업 Editor 기반 문서 관리 기능 개발
@@ -38,7 +38,7 @@ Java 기반 그룹웨어 시스템과 협업형 웹 서비스를 설계/개발�
 
 ---
 
-### 📌 CoviTask - Task 기반 협업 관리 시스템 개발
+### 📌 Task 기반 협업 관리 시스템 개발
 
 - Java 기반 그룹웨어 연동 Task 협업 서비스 설계 및 개발
 - Sprint 기반 Task Grouping 기능 구현
@@ -56,27 +56,52 @@ Java 기반 그룹웨어 시스템과 협업형 웹 서비스를 설계/개발�
 ### Backend
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST API-02569B?style=flat-square"/>
 </p>
 
 ### Frontend
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square"/>
 </p>
 
 ### Database
 <p>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
-### Collaboration
+### Realtime Collaboration
 <p>
 <img src="https://img.shields.io/badge/Yjs-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square"/>
+</p>
+
+### Auth / Permission
+<p>
+<img src="https://img.shields.io/badge/RBAC-4B32C3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Access Control-000000?style=flat-square"/>
+</p>
+
+### Messaging / Cache
+<p>
 <img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+### DevOps
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+### Architecture
+<p>
+<img src="https://img.shields.io/badge/Legacy Integration-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/System Integration-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/RESTful API Design-000000?style=flat-square"/>
 </p>
 
 ---
