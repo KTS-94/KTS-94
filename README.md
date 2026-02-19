@@ -8,7 +8,7 @@ Legacy 시스템 연동 및 실시간 협업 환경에서의 성능 개선에 �
 
 ## 🚀 Project Experience
 
-### 📌 CoviWiki - 그룹웨어 연동 협업형 Wiki 시스템 개발
+### 📌 위키 - 그룹웨어 연동 협업형 Wiki 시스템 개발
 
 - 사내 그룹웨어 연동형 Wiki 서비스 신규 구축
 - 실시간 협업 Editor 기반 문서 관리 기능 개발
